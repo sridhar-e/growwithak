@@ -1,0 +1,11 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract dark professional background",
+      "imageUrl": "https://picsum.photos/seed/ak1/1920/1080",
+      "imageHint": "dark abstract"
+    }
+  ]
+}
